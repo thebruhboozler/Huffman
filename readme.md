@@ -2,4 +2,4 @@
 
 runs on lua 5.1+
 
-![visualized Huffman tree](http://url/to/img.png)
+![visualized Huffman tree](https://ibb.co/17GsZ5q)
